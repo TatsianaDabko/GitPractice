@@ -7,3 +7,4 @@ townhouse
 1000000$
 automation job
 manual+automation job
+new job
